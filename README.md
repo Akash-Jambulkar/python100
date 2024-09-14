@@ -5,6 +5,7 @@ Welcome to my Python Code Practice repository! This repository showcases various
 ## Table of Contents
 
 - [About](#about)
+- [Codes](#codes)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
@@ -15,6 +16,12 @@ Welcome to my Python Code Practice repository! This repository showcases various
 This repository contains a collection of Python scripts, algorithms, and projects that I’m working on to practice and improve my programming skills. The projects range from simple exercises to more complex applications, covering various aspects of Python programming including:
 
 Feel free to explore the code, provide feedback, or use it as a reference for your own projects.
+
+## Codes
+
+-[Hello World](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/hello_world.py)
+-[Data Types](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/data_types.py)
+-[Control Flow](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/controlFlowTools.py)
 
 ## Getting Started
 
