@@ -4,9 +4,9 @@ Welcome to my Python Code Practice repository! This repository showcases various
 
 ## Table of Contents
 
-- [About](#about)
+- [About](#about)  
 - [Codes](#codes)
-- [Getting Started](#getting-started)
+- [Getting Started](#getting-started)  
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -19,9 +19,9 @@ Feel free to explore the code, provide feedback, or use it as a reference for yo
 
 ## Codes
 
--[Hello World](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/hello_world.py)
--[Data Types](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/data_types.py)
--[Control Flow](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/controlFlowTools.py)
+-[Hello World](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/hello_world.py)  
+-[Data Types](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/data_types.py)  
+-[Control Flow](https://github.com/Akash-Jambulkar/pythonLearn/blob/main/controlFlowTools.py)   
 
 ## Getting Started
 
